@@ -1,74 +1,44 @@
-# 📱 App Design & Implementation – Flutter Project
+## Dallah Hospital
+A modern healthcare mobile UI for Dallah Hospitals, providing seamless access to medical services and personal health information.
 
-## 📝 Overview
+![1](https://github.com/user-attachments/assets/2ad3e2a2-33aa-47c2-89d1-c2cad23d06d2)
 
-In this individual project, you will **design and implement a Flutter app** of your choice.  
-This is your chance to showcase your creativity and apply a wide range of Flutter concepts and widgets to create a unique and engaging user experience.
+![2](https://github.com/user-attachments/assets/401f27d6-0a89-45bc-93c9-967e4ff41427)
 
-> 🎯 You are required to implement **at least seven different UIs** and include **all the mandatory concepts listed below**.
 
----
+## Features
 
-## ✅ Mandatory Requirements
+- User-Friendly Interface – Simple and intuitive design for easy navigation.
 
-| Feature | Description |
-|--------|-------------|
-| 🔹 Drawer Widget | Use a navigational drawer to manage different sections of the app. |
-| 🔹 AlertDialog | Implement alert dialogs for confirmations or important messages. |
-| 🔹 TextFields | Add input fields for search bars, forms, or login screens. |
-| 🔹 Navigation Between Views | Provide smooth and seamless navigation across views. |
-| 🔹 BottomNavigationBar | Allow users to switch between major sections of the app. |
-| 🔹 External Packages | Use **at least 2** external packages to enhance UI/UX. |
-| 🔹 Shimmer Effect | Add shimmer loading animations to improve user experience. |
-| 🔹 Splash Screen | Include a splash screen on app launch. |
-| 🔹 Bottom Sheet | Show additional options or info using bottom sheets. |
-| 🔹 TabBarView & TabBar | Organize content using tabs for better UX. |
-| 🔹 PageView | Create scrollable pages (e.g., for onboarding or sliders). |
+- Secure User Profiles – Manage personal and medical information safely.
 
----
 
-## 📌 Guidelines
 
-- This is an **individual project** – work independently.
-- Feel free to explore and demonstrate your creativity.
-- Design and implementation should reflect **your unique vision and skills**.
+## Tech Stack 
+- Flutter (latest version) 
+- Dart
 
----
 
-## 📤 Submission Requirements
+## Installation 
+1.	Clone the repository: 
+git clone https://github.com/shtwaijri/App-Design-Implementation.git
 
-### 🖼️ Screenshots / Videos
-- Provide clear screenshots or a **short demo video** of your app highlighting key features and UI.
+2.	Navigate to the project folder: 
+cd  App-Design-Implementation
 
-### 🧾 README File (Documentation)
-Your `README.md` should include:
+3. Install dependencies: 
+flutter pub get 
 
-- **Purpose** and **features** of your app.
-- **Widgets** and **external packages** used.
-- **Instructions** for running the app.
-- Any additional **notes** or design choices you'd like to share.
+4.	Run the app: 
+flutter run 
 
----
+## How to Use 
+- Open the app. 
+- Browse through available screens. 
 
-## 🧰 Resources
+## Author 
+- Shatha Altwaijri 
 
-- **Flutter Widgets & Documentation:** [Material Components](https://flutter.dev/docs/development/ui/widgets)
-- **Color Palettes:** [Color Hunt](https://colorhunt.co/)
-- **Design Inspiration:**  
-  - [Figma Community](https://www.figma.com/community)  
-  - [Pinterest](https://www.pinterest.com)  
-  - [Dribbble](https://dribbble.com)  
-  - [Mobbin](https://mobbin.com)
 
----
 
-## ⏰ Deadline
-
-**Submit your project by May 11, before 10:00 AM.**
-
----
-
-## ✨ Final Note
-
-> "Good luck, and have fun creating your app!" 🎨📱
 
